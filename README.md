@@ -407,7 +407,7 @@ The Profile component
 The Profile component is a simple component that displays the user’s schedule as shown below:
 
 Scheduling
-Copy the code below into the Profile.js file. Later in the tutorial, we’ll fetch its data from the server.
+ Profile.js file. 
 
 import React from "react";
 import { useParams } from "react-router-dom";
